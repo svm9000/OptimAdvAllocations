@@ -6,7 +6,7 @@ Notebook contains some ideas for distributing geogroup (Postal sector) to geokey
 
 Some assumptions:
 
-    There are around **1.4 million postcode geokeys**
-    Around **10k** postal sectors (geo groups).
-    We cannot have **fractional impressions**, so have consider approaches such as the **D'hondt method**.
+* There are around **1.4 million postcode geokeys**
+* Around **10k** postal sectors (geo groups).
+* We cannot have **fractional impressions**, so have consider approaches such as the **D'hondt method**.
 
