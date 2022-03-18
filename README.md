@@ -1,6 +1,6 @@
 # OptimAdvAllocations
 
-Assume we have an optimised set of ads served (impression) to the user on a given device at the **(days,campaign,geogroups)** level - how do we assign this at the **postcode (geokey)** level. The geogroup can be thought of as a **Postcode Sector**.
+Assume we have an optimised set of ads served (impression) to the user on a given device at the **(days,campaign,geogroups)** level - how do we assign this at the **postcode (geokey)** level subject to daily impression constraints for **(days,campaign,geogroups)** and also at the **geokey** level. The geogroup can be thought of as a **Postcode Sector**.
 
 Notebook contains some ideas for distributing geogroup (Postal sector) to geokeys (postcode) as integer values. Essentially an **integer optimisation problem**.
 
